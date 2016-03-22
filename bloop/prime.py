@@ -18,4 +18,4 @@ def PRIME(N):
 #~ print PRIME(3)
 #~ print PRIME(100)
 #~ print PRIME(101)
-#~ print PRIME(11)
+print PRIME(11)

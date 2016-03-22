@@ -8,6 +8,7 @@ def MINUS(M,N):
                 return ans
             else:
                 ans +=1
+    print 'MINUS error!'
     return -1
 
 # TESTS:
