@@ -12,6 +12,8 @@ def GOLDBACH(N):
     return False
 
 #TESTS:
-#~ print GOLDBACH(2)
+#~ print GOLDBACH(4)
 #~ print GOLDBACH(22)
 #~ print GOLDBACH(62)
+#~ print GOLDBACH(93)
+#~ print GOLDBACH(94)

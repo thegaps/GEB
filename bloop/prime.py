@@ -1,6 +1,9 @@
 from minus import MINUS
 from remainder import REMAINDER
 
+# from book
+# does not identuify 1 correctly
+
 def PRIME(N):
     if N == 0:
         return False
@@ -12,10 +15,10 @@ def PRIME(N):
     return True
 
 # TESTS:
-#~ print PRIME(0)
-#~ print PRIME(1)
-#~ print PRIME(2)
+#~ print PRIME(0)	#false
+#~ print PRIME(1)	#false
+#~ print PRIME(2)	#true
 #~ print PRIME(3)
 #~ print PRIME(100)
 #~ print PRIME(101)
-print PRIME(11)
+#~ print PRIME(11)

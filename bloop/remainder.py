@@ -31,7 +31,8 @@ def REMAINDER(M, N):
     print 'REMAINDER error'
     return -1
 
-print REMAINDER(5,1)
-print REMAINDER(5,2)
-print REMAINDER(0,1)
-print REMAINDER(25,11)
+#~ print REMAINDER(5,1)
+#~ print REMAINDER(5,2)
+#~ print REMAINDER(0,1)
+#~ print REMAINDER(25,11)
+#~ print REMAINDER(1,2)

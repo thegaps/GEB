@@ -9,7 +9,7 @@
 def DIVISION(M, N):
     # Easy cases:
     if N == 0:
-        return 0    # 0? 1? undefined? Meatballs for dinner?
+        return 0    # 0? 1? undefined? Meatballs for dinner? (the winner was 0)
     elif M < N:
         return 0
     elif M==N:
