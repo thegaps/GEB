@@ -2,7 +2,7 @@ from minus import MINUS
 from remainder import REMAINDER
 
 # from book
-# does not identuify 1 correctly
+# does not identify 1 correctly
 
 def PRIME(N):
     if N == 0:
