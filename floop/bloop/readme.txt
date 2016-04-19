@@ -15,3 +15,5 @@ Determining lesser/greater
 Following format:
 Rock bottom at the top of file,
 Highest level, and function of concern at the end.
+
+Functions ending in a "?" are given the prefix "IS_" instead.

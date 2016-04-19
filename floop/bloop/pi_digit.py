@@ -1,6 +1,7 @@
 #   pi/6 = 1/1^2 + 1/2^2 . . . 
 # Haven't checked for legality
 # doesn't actually find the digit
+
 from numpy import sqrt, pi
 
 # How do you put a bound on the sequence, so we
@@ -40,3 +41,8 @@ print PI_THA(1000000) # 14 digits until error hits (numerical error)
 #~ print PI_DIGIT(1)
 #~ print PI_DIGIT(2)
 #~ print PI_DIGIT(300)
+
+# Ideas:
+#~ Use regular polygons
+	#~ find relationship between accuracy and number of sides of polygon
+
